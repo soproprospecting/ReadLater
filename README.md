@@ -12,7 +12,7 @@ Read Later is a fictional service designed to test a range of skills using the .
 <ol>
     <li>
         <h5>Bookmark management</h5>
-        Implement full CRUD management for Bookmarks.  Users should be able to create a new category whilst creating a bookmark without requiring any page refresh
+        Implement full CRUD management for Bookmarks.
     </li>
     <li>
         <h5>User accounts</h5>
